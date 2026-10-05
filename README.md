@@ -69,6 +69,7 @@ Railway-Reservation-and-Passenger-Management-System
 │
 ├── Output2.pdf
 └── README.md
+```
 
 ## 🖥️ Project Output
 
